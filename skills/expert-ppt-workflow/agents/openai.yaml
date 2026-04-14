@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expert PPT Workflow"
+  short_description: "Plan AI PPTs with expert workflow"
+  default_prompt: "Use the expert PPT workflow to turn my presentation topic into a researched outline, page plan, and editable SVG slide prompts."
