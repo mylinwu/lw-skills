@@ -1,7 +1,0 @@
-timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
-2026-04-14T10:00	baseline	wu-jun-perspective	-	73	baseline	-	初始基线评估	dry_run
-2026-04-14T10:05	b5d9b95	wu-jun-perspective	73	89	keep	Frontmatter+检查点	添加标准frontmatter、敏感场景检查点、文件结构清理	dry_run
-2026-04-14T11:00	baseline	wanweigang-perspective	-	67	baseline	-	初始基线评估	dry_run
-2026-04-14T11:10	58cea03	wanweigang-perspective	67	77	keep	边界条件+检查点+工作流	添加敏感场景检查点、研究维度选择规则、证据自检、references使用指南	dry_run
-2026-04-14T11:20	3be50c2	wanweigang-perspective	77	81	keep	指令具体性+实测	添加心智模型选择指南决策表	dry_run
-2026-04-14T11:30	9c658fa	wanweigang-perspective	81	84	keep	Frontmatter+检查点+具体性	英文触发词、纯理论判断标准、输出格式模板	dry_run
